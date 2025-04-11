@@ -5,3 +5,5 @@ lib
 .vscode
 *.log
 *.tsbuildinfo
+package-lock.json
+*.tgz
