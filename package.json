@@ -1,0 +1,16 @@
+{
+  "name": "editorjs-accordion",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "npx tsc --outDir lib"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@editorjs/editorjs": "^2.30.8"
+  }
+}
